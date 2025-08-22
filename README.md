@@ -1,6 +1,36 @@
-<h1 align="center">Hi , I'm Angel Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<h1 align="center">Hi 👋, I'm Angel Gabriel</h1>
+<h3 align="center">🎓 Systems Engineering Student | 💻 Developer | 🚀 Tech Enthusiast</h3>
 
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img align="right" alt="Coding Unicorn" width="300" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-I am a student of Systems Engineering III UNAN MANAGUA. C, C++, Python, Javascript, HTML are the programming languages I am good at. I love to learn and build something new, productive, innovative, and creative. **I am interested in web design, Android development, and digital marketing** - 🌱 I am currently learning ... - Java - React js - 👯 I hope to collaborate on open source projects. - ✔ Ask me about anything, I am happy to help, as long as it is within my reach! 😉 <br> - Outside of technology, 📖 I love reading novels, 🎵 listening to music, and 🌴 exploring nature outdoors. - 📫 Contact me at: <a href="Dark05studios@gmail.com">Dark05studios@gmail.com</a>.
+---
+
+## 🌟 About Me
+- 🎓 Student of **Systems Engineering III** at **UNAN Managua**  
+- 💻 Skilled in: **C, C++, Python, JavaScript, HTML**  
+- 🌱 Currently learning: **Java & React.js**  
+- 🤝 Looking to collaborate on **open-source projects**  
+- 💬 Happy to help with anything within my reach 😉  
+
+---
+
+## 🌴 Outside Tech
+- 📖 Love reading novels  
+- 🎵 Enjoy listening to music  
+- 🌍 Exploring nature & outdoors  
+
+---
+
+## 📫 Contact Me
+📧 **[Dark05studios@gmail.com](mailto:Dark05studios@gmail.com)**  
+
+---
+
+## 🚀 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,java,react" />
+</p>
+
+---
+
+⭐️ From [Angel Gabriel](https://github.com/tu-usuario)
